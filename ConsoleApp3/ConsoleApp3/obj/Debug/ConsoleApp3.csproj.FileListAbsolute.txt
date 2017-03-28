@@ -1,0 +1,6 @@
+d:\rlung\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+d:\rlung\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+d:\rlung\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+d:\rlung\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojResolveAssemblyReference.cache
+d:\rlung\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+d:\rlung\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
